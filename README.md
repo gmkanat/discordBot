@@ -1,8 +1,8 @@
-### Integration of Discord and Telegram
-The bot can automatically send posts from discord to server to telegram channel.
+## Integration of Discord and Telegram
+## The bot can automatically send posts from discord server to telegram channel.
 
 ![you can simply send data by the way](https://i.ibb.co/19Qj7s4/image.png)
-
+```
 Installation:
 
 1:  cd folder
@@ -22,3 +22,4 @@ Run:
 
 2:  type "python3 bot.py &" to run in the background so you may close the terminal.
 
+```
